@@ -13,7 +13,7 @@ library(DT)
 #library(quarto)
 
 # Authentication.
-gs4_auth(path = "saint-lucia-map-426222-b0883d2860e0.json")  
+gs4_auth(path = "...")  
 
 # UI
 ui <- fluidPage(
